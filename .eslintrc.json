@@ -1,0 +1,5 @@
+{
+  "files": ["**/*.graphql"],
+  "plugins": ["@graphql-eslint/eslint-plugin"],
+  "ignorePatterns": ["node_modules/"]
+}
